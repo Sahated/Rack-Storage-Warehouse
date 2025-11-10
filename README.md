@@ -3,3 +3,4 @@
 
 Яндекс диск с артефактами: https://disk.yandex.ru/d/IoJIseCJtGhNLw
 
+[Сиквенс-Диаграмма](https://github.com/Sahated/Rack-Storage-Warehouse/blob/main/SequinceDiagram.png)
