@@ -3,8 +3,8 @@
 
 Яндекс диск с артефактами: https://disk.yandex.ru/d/IoJIseCJtGhNLw
 
-![Сиквенс-Диаграмма](main/SequinceDiagram.png)
+![Сиквенс-Диаграмма](SequinceDiagram.png)
 
-![Диаграмма Классов](main/СlassDiagram.png)
+![Диаграмма Классов](СlassDiagram.png)
 
-![Блок-схема](main/Flowhcart.png)
+![Блок-схема](Flowhcart.png)
