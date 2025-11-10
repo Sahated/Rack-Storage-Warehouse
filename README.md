@@ -4,10 +4,11 @@
 
 [Яндекс диск с артефактами](https://disk.yandex.ru/d/IoJIseCJtGhNLw)
 
-![Сиквенс-Диаграмма](SequinceDiagram.png)
+# 1. Диаграмма последовательностей
+![](SequinceDiagram.png)
 
+# 2. Диаграмма Классов
+![](ClassDiagram.png)
 
-![Диаграмма Классов](ClassDiagram.png)
-
-
-![Блок-схема](Flowchart.png)
+# 3. Блок-схема
+![](Flowchart.png)
