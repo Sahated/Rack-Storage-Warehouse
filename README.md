@@ -6,7 +6,7 @@
 [Яндекс диск с артефактами](https://disk.yandex.ru/d/IoJIseCJtGhNLw)
 
 # 1. Диаграмма последовательностей
-![](SequinceDiagram.png)
+
 
 # 2. Диаграмма Классов
 ![](ClassDiagram.png)
